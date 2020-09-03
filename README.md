@@ -21,7 +21,7 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
 5. How were bootcamps assisting with increasing diversity in tech careers?
 
-The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
+The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here. This README also serves as a template for students to follow in creating their own project README files.
 
 
 ## File Descriptions <a name="files"></a>
